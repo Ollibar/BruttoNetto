@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BruttoNetto</string>
+    <string name="intro">Geben Sie einen Netto oder Bruttowert ein</string>
+    <string name="btn1">Brutto</string>
+    <string name="btn2">Netto</string>
+    <string name="pUmrechnen">Umrechnen</string>
+</resources>
